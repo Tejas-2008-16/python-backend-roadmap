@@ -9,7 +9,7 @@
 
 ### Phase 1 — Python Fundamentals
 
-* [ ] Install & Setup
+* [x] Install & Setup
 * [ ] Strings
 * [ ] Integers & Floats
 * [ ] Lists, Tuples & Sets
