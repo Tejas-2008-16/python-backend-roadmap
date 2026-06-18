@@ -1,100 +1,205 @@
 # 🚀 Python to FastAPI Roadmap
 
-> **Learn Python from absolute beginner to professional backend developer for FREE.**
+> Learn Python from absolute beginner to building production-ready backend applications, APIs, automation tools, and SaaS products using completely free resources.
+
+---
+
+# 📖 Learning Path
+
+```text
+Python Fundamentals
+        ↓
+Practical Python
+        ↓
+Object-Oriented Programming
+        ↓
+APIs & JSON
+        ↓
+SQL
+        ↓
+PostgreSQL
+        ↓
+FastAPI
+        ↓
+Backend Projects
+        ↓
+SaaS Projects
+```
 
 ---
 
 # 🐍 Phase 1 — Python Fundamentals
 
-## 📺 Main Playlist
+## 🎥 Main Playlist
 
-👉 **Corey Schafer Python Playlist**
+https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 
-🔗 **https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU**
+| # | Lesson                     | Duration | Video                                       |
+| - | -------------------------- | -------- | ------------------------------------------- |
+| 1 | Install & Setup            | 15:29    | https://www.youtube.com/watch?v=YYXdXT2l-Gg |
+| 2 | Strings                    | 21:12    | https://www.youtube.com/watch?v=k9TUPpGqYTo |
+| 3 | Integers & Floats          | 11:55    | https://www.youtube.com/watch?v=khKv-8q7YmY |
+| 4 | Lists, Tuples & Sets       | 29:05    | https://www.youtube.com/watch?v=W8KRzm-HUcc |
+| 5 | Dictionaries               | 09:59    | https://www.youtube.com/watch?v=daefaLgNkw0 |
+| 6 | Conditionals & Booleans    | 16:28    | https://www.youtube.com/watch?v=DZwmZ8Usvnk |
+| 7 | Loops & Iterations         | 10:14    | https://www.youtube.com/watch?v=6iF8Xb7Z3wQ |
+| 8 | Functions                  | 21:48    | https://www.youtube.com/watch?v=9Os0o3wzS_I |
+| 9 | Modules & Standard Library | 21:57    | https://www.youtube.com/watch?v=CqvZ3vGoGs0 |
+
+## 🛠 Beginner Projects
+
+* Calculator
+* Password Generator
+* Number Guessing Game
+* To-Do Application
 
 ---
 
-## 📚 Lessons
+# ⚙️ Phase 2 — Practical Python
 
-| # | Topic                          | Duration | Video                                          |
-| - | ------------------------------ | -------- | ---------------------------------------------- |
-| 1 | **Install & Setup**            | 15 min   | 🔗 https://www.youtube.com/watch?v=YYXdXT2l-Gg |
-| 2 | **Strings**                    | 21 min   | 🔗 https://www.youtube.com/watch?v=k9TUPpGqYTo |
-| 3 | **Integers & Floats**          | 12 min   | 🔗 https://www.youtube.com/watch?v=khKv-8q7YmY |
-| 4 | **Lists, Tuples & Sets**       | 29 min   | 🔗 https://www.youtube.com/watch?v=W8KRzm-HUcc |
-| 5 | **Dictionaries**               | 10 min   | 🔗 https://www.youtube.com/watch?v=daefaLgNkw0 |
-| 6 | **Conditionals**               | 16 min   | 🔗 https://www.youtube.com/watch?v=DZwmZ8Usvnk |
-| 7 | **Loops**                      | 10 min   | 🔗 https://www.youtube.com/watch?v=6iF8Xb7Z3wQ |
-| 8 | **Functions**                  | 22 min   | 🔗 https://www.youtube.com/watch?v=9Os0o3wzS_I |
-| 9 | **Modules & Standard Library** | 22 min   | 🔗 https://www.youtube.com/watch?v=CqvZ3vGoGs0 |
+| #  | Topic                           | Video                                       |
+| -- | ------------------------------- | ------------------------------------------- |
+| 10 | OS Module                       | https://www.youtube.com/watch?v=tJxcKyFMTGo |
+| 11 | File Handling                   | https://www.youtube.com/watch?v=Uh2ebFW8OYM |
+| 12 | CSV Files                       | https://www.youtube.com/watch?v=q5uM4VKywbA |
+| 13 | Datetime Module                 | https://www.youtube.com/watch?v=eirjjyP2qcQ |
+| 14 | Variable Scope (LEGB Rule)      | https://www.youtube.com/watch?v=QVdf0LgmICw |
+| 15 | Sorting Lists, Tuples & Objects | https://www.youtube.com/watch?v=D3JvDWO-BY4 |
+| 16 | Error Handling (Try / Except)   | https://www.youtube.com/watch?v=NIWwJbo-9_8 |
+| 17 | Unit Testing with unittest      | https://www.youtube.com/watch?v=6tNS--WetLI |
 
----
+## 🛠 Practice Projects
 
-## 🛠️ Projects To Build
-
-### Beginner Projects
-
-* ✅ **Calculator**
-* ✅ **Password Generator**
-* ✅ **Number Guessing Game**
-* ✅ **To-Do App**
+* Expense Tracker
+* Contact Manager
+* Notes Application
+* CSV Data Processor
 
 ---
 
 # 🏗️ Phase 3 — Object-Oriented Programming (OOP)
 
-## 📺 OOP Playlist
+## 🎥 OOP Playlist
 
-🔗 **https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc**
+https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc
 
-### Lessons
+| # | Topic                            | Video                                       |
+| - | -------------------------------- | ------------------------------------------- |
+| 1 | Classes & Instances              | https://www.youtube.com/watch?v=ZDa-Z5JzLYM |
+| 2 | Class Variables                  | https://www.youtube.com/watch?v=BJ-VvGyQxho |
+| 3 | Class Methods & Static Methods   | https://www.youtube.com/watch?v=rq8cL2XMM5M |
+| 4 | Inheritance                      | https://www.youtube.com/watch?v=RSl87lqOXDE |
+| 5 | Special (Magic / Dunder) Methods | https://www.youtube.com/watch?v=3ohzBxoFHAY |
+| 6 | Property Decorators              | https://www.youtube.com/watch?v=jCzT9XFZ5bw |
 
-* **Classes & Instances**
-* **Class Variables**
-* **Class Methods & Static Methods**
-* **Inheritance**
-* **Special Methods**
-* **Property Decorators**
+## 🛠 Projects
 
-### Projects
-
-* 🚀 **Student Management System**
-* 🚀 **Library Management System**
-* 🚀 **Inventory Management System**
-
----
-
-# 🌐 APIs & JSON
-
-## Required Videos
-
-| Topic                 | Link                                           |
-| --------------------- | ---------------------------------------------- |
-| **Requests Library**  | 🔗 https://www.youtube.com/watch?v=tb8gHvYlCFs |
-| **Working with JSON** | 🔗 https://www.youtube.com/watch?v=9N6a-VLBa2I |
-| **REST APIs**         | 🔗 https://www.youtube.com/watch?v=GMppyAPbLYk |
-
-### Projects
-
-* 🚀 **Weather App**
-* 🚀 **GitHub User Analyzer**
-* 🚀 **Crypto Price Tracker**
-* 🚀 **News Aggregator**
+* Student Management System
+* Library Management System
+* Inventory Management System
 
 ---
 
-# ⚡ FastAPI
+# 🌐 Phase 4 — APIs & JSON
 
-## Core Lessons
+| # | Topic             | Video                                       |
+| - | ----------------- | ------------------------------------------- |
+| 1 | Requests Library  | https://www.youtube.com/watch?v=tb8gHvYlCFs |
+| 2 | Working with JSON | https://www.youtube.com/watch?v=9N6a-VLBa2I |
+| 3 | Working with APIs | https://www.youtube.com/watch?v=GMppyAPbLYk |
 
-| Topic                  | Video                                          |
-| ---------------------- | ---------------------------------------------- |
-| **Getting Started**    | 🔗 https://www.youtube.com/watch?v=iWS9ogMPOI0 |
-| **Routing & CRUD**     | 🔗 https://www.youtube.com/watch?v=GONyd0CUrPc |
-| **SQLAlchemy**         | 🔗 https://www.youtube.com/watch?v=eWEm_hHH-jM |
-| **Pydantic Schemas**   | 🔗 https://www.youtube.com/watch?v=fw5ObX8P6as |
-| **Database Models**    | 🔗 https://www.youtube.com/watch?v=kL65pd5A5o8 |
-| **JWT Authentication** | 🔗 https://www.youtube.com/watch?v=7t2alSnE2-I |
+## 🛠 Projects
+
+* Weather App
+* GitHub User Analyzer
+* Crypto Tracker
+* News Aggregator
+
+---
+
+# 🗄️ Phase 5 — SQL
+
+## 📚 Interactive Lessons
+
+https://sqlbolt.com
+
+Complete:
+
+* Lessons 1–18
+
+## 🎥 SQL Crash Course
+
+https://www.youtube.com/watch?v=HXV3zeQKqGY
+
+## Learn
+
+* SELECT
+* WHERE
+* ORDER BY
+* GROUP BY
+* JOINS
+* Aggregations
+
+## 🛠 Projects
+
+* Student Database
+* Employee Database
+* Lead Database
+
+---
+
+# 🐘 Phase 6 — PostgreSQL
+
+| Resource               | Link                                        |
+| ---------------------- | ------------------------------------------- |
+| PostgreSQL Tutorial    | https://www.youtube.com/watch?v=qw--VYLpxG4 |
+| PostgreSQL Full Course | https://www.youtube.com/watch?v=SpfIwlAYaKk |
+
+## Learn
+
+* Tables
+* Primary Keys
+* Foreign Keys
+* Relationships
+* Joins
+* Indexes
+* CRUD Operations
+
+## 🛠 Projects
+
+* CRM Database
+* SaaS Database Design
+
+---
+
+# ⚡ Phase 7 — FastAPI
+
+| Part | Topic                | Video                                       |
+| ---- | -------------------- | ------------------------------------------- |
+| 1    | Getting Started      | https://www.youtube.com/watch?v=iWS9ogMPOI0 |
+| 2    | Routing & CRUD       | https://www.youtube.com/watch?v=GONyd0CUrPc |
+| 3    | SQLAlchemy           | https://www.youtube.com/watch?v=eWEm_hHH-jM |
+| 4    | Pydantic Schemas     | https://www.youtube.com/watch?v=fw5ObX8P6as |
+| 5    | Database Models      | https://www.youtube.com/watch?v=kL65pd5A5o8 |
+| 6    | Update & Delete APIs | https://www.youtube.com/watch?v=0sOvCWFmrtA |
+| 10   | JWT Authentication   | https://www.youtube.com/watch?v=7t2alSnE2-I |
+
+## Learn
+
+* REST APIs
+* CRUD Operations
+* Authentication
+* JWT
+* SQLAlchemy
+* Pydantic
+* Database Integration
+
+## 🛠 Projects
+
+* Blog API
+* Notes API
+* Authentication API
+* Lead Generator API
 
 ---
 
@@ -102,42 +207,43 @@
 
 ## 🥉 Beginner
 
-* **To-Do SaaS**
-* **Notes SaaS**
+* To-Do SaaS
+* Notes SaaS
 
 ## 🥈 Intermediate
 
-* **CRM Backend**
-* **Inventory Management System**
-* **Client Management Platform**
+* CRM Backend
+* Inventory Management System
+* Client Management Platform
 
 ## 🥇 Advanced
 
-### 🚀 Lead Generator SaaS
+### Lead Generator SaaS
 
 Features:
 
-* **Authentication**
-* **Lead Storage**
-* **Lead Search**
-* **CSV Export**
-* **Dashboard**
+* User Authentication
+* Lead Storage
+* Search & Filtering
+* CSV Export
+* Dashboard
 
-### 🤖 AI Prompt Generator
-
-Features:
-
-* **User Accounts**
-* **Prompt Templates**
-* **AI Integration**
-
-### 📧 Cold Outreach SaaS
+### AI Prompt Generator
 
 Features:
 
-* **Lead Management**
-* **Campaign Tracking**
-* **AI Message Generation**
+* User Accounts
+* Prompt Templates
+* AI Integration
+
+### Cold Outreach SaaS
+
+Features:
+
+* Lead Management
+* Contact Database
+* Campaign Tracking
+* AI Message Generation
 
 ---
 
@@ -145,18 +251,14 @@ Features:
 
 Build production-ready applications using:
 
-✅ **Python**
+* Python
+* FastAPI
+* PostgreSQL
+* SQLAlchemy
+* JWT Authentication
+* Docker
+* Linux
+* Git & GitHub
 
-✅ **FastAPI**
+and create real SaaS products from scratch.
 
-✅ **PostgreSQL**
-
-✅ **SQLAlchemy**
-
-✅ **JWT Authentication**
-
-✅ **Docker**
-
-✅ **Linux**
-
-✅ **Git & GitHub**
